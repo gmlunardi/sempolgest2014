@@ -15,7 +15,7 @@
 			<!-- /Article -->
 			<article class="col-sm-12 maincontent">
 				<p>
-					<b>Coordenação Comissão Científica:</b> Profaª. Dra. Marilene Gabriel Dalla Corte (UFSM) e Prof. Ms. Joacir Marques da Costa (UNIPAMPA)
+					<b>Coordenação Comissão Científica:</b> Profa. Dra. Marilene Gabriel Dalla Corte (UFSM) e Prof. Ms. Joacir Marques da Costa (UNIPAMPA)
 				</p>
 			
 			<br />
@@ -30,25 +30,26 @@
 				<tr>
 					<td>1</td>
 					<td><b>Qualidade e interlocuções com as políticas públicas e gestão da educação</b></td>
-					<td>Profaª. Andrelisa Goulart de Mello (UFSM)</td>
+					<td>Profa. Andrelisa Goulart de Mello (UFSM)</td>
 					<td>eixo1seminarioufsm@gmail.com</td>
 				</tr>
 				<tr>
 					<td>2</td>
 					<td><b>Formação inicial e/ou continuada na perspectiva da qualidade em educação</b></td>
-					<td>Profaª. Dóris Pires Vargas Bolzan (UFSM)</td>
+					<td>Profa. Dóris Pires Vargas Bolzan (UFSM) <br />
+						Profa. Ana Carla Hollweg Powaczuk (UFSM)</td>
 					<td>eixo2seminarioufsm@gmail.com</td>
 				</tr>
 				<tr>
 					<td>3</td>
 					<td><b>Práticas educativas e as interfaces da qualidade </b></td>
-					<td>Profaª. Graziela Escandiel de Lima (UFSM)</td>
+					<td>Profa. Graziela Escandiel de Lima (UFSM)</td>
 					<td>eixo3seminarioufsm@gmail.com</td>
 				</tr>
 				<tr>
 					<td>4</td>
 					<td><b>Educação, inclusão e qualidade</b></td>
-					<td>Profaª. Leandra Boer Possa (UFSM)</td>
+					<td>Profa. Leandra Boer Possa (UFSM)</td>
 					<td>eixo4seminarioufsm@gmail.com</td>
 				</tr>
 			</table>

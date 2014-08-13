@@ -2,10 +2,10 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h3><b>IV SEMINÁRIO INTERNACIONAL DE GESTÃO EDUCACIONAL</b></h3>
-				<h3><b>II SEMINÁRIO INTERNACIONAL DE POLÍTICAS PÚBLICAS DA EDUCAÇÃO BÁSICA E SUPERIOR</b></h3>
-				<h3><b>VIII SEMANA ACADÊMICA DO CURSO DE ESPECIALIZAÇÃO EM GESTÃO EDUCACIONAL</b></h3>
-				<h3><b>II SEMANA ACADÊMICA DO CENTRO DE EDUCAÇÃO</b></h3>
+				<h3><b><div align="left">IV SEMINÁRIO INTERNACIONAL DE GESTÃO EDUCACIONAL</div></b></h3>
+				<h3><b><div align="right">II SEMINÁRIO INTERNACIONAL DE POLÍTICAS PÚBLICAS DA EDUCAÇÃO BÁSICA E SUPERIOR</div></b></h3>
+				<h3><b><div align="left">VIII SEMANA ACADÊMICA DO CURSO DE ESPECIALIZAÇÃO EM GESTÃO EDUCACIONAL</div></b></h3>
+				<h3><b><div align="right">II SEMANA ACADÊMICA DO CENTRO DE EDUCAÇÃO</div></b></h3>
 				
 				<hr />
 
@@ -23,7 +23,7 @@
 			
 			<div class="row">
 				<p align="justify">O <b>II Seminário Internacional de Políticas Públicas da Educação Básica e Superior</b>, o <b>IV Seminário 
-					Internacional de Gestão Educacional</b>, a <b>VIII Semana acadêmica do curso de Especialização em Gestão Educacional</b> e a <b>II 
+					Internacional de Gestão Educacional</b>, a <b>VIII Semana Acadêmica do Curso de Especialização em Gestão Educacional</b> e a <b>II 
 					Semana Acadêmica do Centro de Educação da Universidade Federal de Santa Maria</b>, programados para acontecer no período de 
 					<b>20 a 24 de outubro de 2014</b> configuram-se como eventos integrados acerca do tema geral "QUALIDADE DA EDUCAÇÃO? INTERFACES E 
 					INTERLOCUÇÕES ENTRE POLÍTICAS PÚBLICAS E GESTÃO".</p>
@@ -48,7 +48,7 @@
 			<h3 class="text-center thin">Objetivo Geral</h3>
 			<p align="justify">
 				Refletir sobre as bases epistemológicas e metodológicas subjacentes às interfaces das políticas públicas e dos processos 
-				de gestão educacional, na perspectiva de suscitar discussões acerca da qualidade da educação básica e superior 
+				de gestão educacional, na perspectiva de suscitar discussões acerca da qualidade da educação básica e superior.
 			</p>
 			<h3 class="text-center thin">Objetivos Específicos</h3>
 			<p align="justify">
@@ -64,7 +64,7 @@
   		<h3 class="text-center thin">Certificação</h3>
 		<p align="justify">	
 				Os certificados serão emitidos com carga horária de 40 horas e serão enviados por e-mail, a partir do dia 24/10/2014, ao participante ouvinte, ou ao autor que submeteu trabalho, ou ao proponente que submeteu proposta de oficina.
-		Para cada trabalho ou oficina, será entregue um único certificado com os nomes de todos os respectivos autores e coautor(es, ou proponentes e demais responsáveis)
+		Para cada trabalho ou oficina, será entregue um único certificado com os nomes de todos os respectivos autores e coautores, ou proponentes e demais responsáveis.
 		A emissão de certificados de participação como ouvinte no evento é condicionada ao credenciamento, que poderá ser realizado nos dias 20 e 21 de outubro. 
 
 		</p>

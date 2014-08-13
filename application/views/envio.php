@@ -17,7 +17,7 @@
 			<article class="col-sm-12 maincontent">
 				<h4><b>Orientações para submissão de trabalhos:</b></h4>
 				<ul>
-					<li>O(s) trabalho(s) só deverão ser enviados para o e-mail do eixo escolhido o preenchimento e envio do formulário de inscrição correspondente (disponível no site do evento, no menu "inscrições"; </li>
+					<li>O(s) trabalho(s) só deverão ser enviados para o e-mail do eixo escolhido depois do preenchimento e envio do formulário de inscrição correspondente (disponível no site do evento, no menu "inscrições"; </li>
 					<li>Os arquivos do(s) trabalho(s) deverão ser enviados somente pelo autor apresentador do trabalho, para o endereço de e-mail do eixo temático escolhido, apenas uma vez; </li>
 					<li>Para envio de trabalho(s), será necessário anexar no e-mail dois arquivos: um com identificação dos autores e outro sem identificação dos autores (de acordo com as normas de formatação); </li>
 					<li>Os coordenadores dos eixos temáticos não responderão a dúvidas, somente receberão os trabalhos pelo respectivo e-mail dos eixos. </li>

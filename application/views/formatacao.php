@@ -18,7 +18,7 @@
 			<p align="justify">
 				Devido aos critérios de publicação definidos pela Comissão Organizadora, em atendimento às normas da ABNT e, também, 
 				para o registro de ISBN no CD dos Anais, orientamos os autores a submeterem trabalhos inéditos. Para a submissão de trabalhos 
-				completos, deve-se seguir a formatação e as orientações expressas abaixo.
+				completos, deve-se seguir a formatação e as orientações expressas abaixo:
 			</p>
 
 			<ol type="a">
@@ -29,7 +29,7 @@
 					título do trabalho em letra maiúscula, centralizado, negritado em fonte Arial tamanho 12, espaço 1,5 entre linhas, em no máximo três linhas;
 				</li>
 				<li>
-					nomes completos dos autores (conforme ficha de inscrição), em fonte Arial tamanho 12, alinhados a direita;
+					nomes completos dos autores (conforme ficha de inscrição), em fonte Arial tamanho 12, alinhados à direita;
 				</li>
 				<li>
 					nota de rodapé correspondente a cada autor, em fonte Arial tamanho 10 e espaço simples, contendo formação, instituição e e-mail;

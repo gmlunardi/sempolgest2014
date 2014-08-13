@@ -38,7 +38,7 @@ A inscrição é gratuita em qualquer modalidade e, para efetivá-la, é preciso
 				</ol>
 				<p align="justify">
 					Cada proposta de atividade (trabalho ou oficina) deve ser submetida separadamente, por meio do preenchimento e envio dos formulários correspondentes.
-Orientadores de trabalhos/oficinas são considerados uma categoria a parte, e podem orientar mais de duas atividades desde que a orientação seja devidamente indicada nos trabalhos ou oficinas submetidas
+Orientadores de trabalhos/oficinas são considerados uma categoria a parte, e podem orientar mais de duas atividades desde que a orientação seja devidamente indicada nos trabalhos ou oficinas submetidas.
 				</p>
 				
 				<br />

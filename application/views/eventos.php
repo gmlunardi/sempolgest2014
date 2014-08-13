@@ -36,7 +36,7 @@
 					Desde alguns anos, o Centro de Educação vem organizando atividades paralelas à Jornada Acadêmica Integrada da UFSM. Nos anos de 2011 e 2012, 
 					o CE organizou a JAI/CE, que teve entre seus objetivos divulgar os projetos desenvolvidos no CE, fortalecer a interlocução entre os cursos e 
 					programas e promover a discussão de questões relevantes no âmbito da educação, envolvendo membros da comunidade acadêmica e da sociedade em geral. 
-					A JAI/CE buscou, assim, constituir-se como um locus de legitimação de saberes e de troca de experiências entre os participantes. A pesquisa de 
+					A JAI/CE buscou, assim, constituir-se como um <i>locus</i> de legitimação de saberes e de troca de experiências entre os participantes. A pesquisa de 
 					avaliação da JAI/CE/2012, realizada ao final do evento, revelou que os estudantes desejariam ver a força de trabalho do próprio Centro melhor utilizada, 
 					além de ter eles mesmos uma participação mais ativa nesse tipo de atividade acadêmica. Levando em conta os dados dessa pesquisa, em 2013, o Centro de 
 					Educação propôs a Semana Acadêmica do CE, que, na proposta de sua primeira edição, elegeu como conceito-base o “Protagonismo discente”. A ideia era 
