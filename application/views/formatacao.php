@@ -62,6 +62,9 @@
 					será permitida a utilização de figuras, gráficos e tabelas, desde que identificados de acordo com as normas da Associação Brasileira de Normas Técnicas – ABNT; 
 				</li>
 				<li>
+					os textos deverão ser escritos em língua portuguesa; 
+				</li>
+				<li>
 					os trabalhos deverão ser salvos em dois arquivos em versão Word (formato DOCX), identificados de acordo com as seguintes orientações: 
 				</li>
 				<br />
