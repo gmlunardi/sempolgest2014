@@ -21,12 +21,7 @@
 			<div class="alert alert-danger">
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
-					Aos interessados em participar do evento, a Comissão Organizadora orienta a realização da <b>INSCRIÇÃO COM URGÊNCIA</b>, 
-					uma vez que nas próximas horas <b>ESTARÁ FINALIZANDO</b> o processo de inscrições ao evento. </p>
-				<p class="text-center">
-					Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ SE ESGOTANDO. As submissões de trabalhos e oficinas aos participantes 
-					que estiverem inscritos no evento serão aceitas <u><b>até o dia 08/09/14</b></u> pelo e-mail do respectivo eixo temático, conforme 
-					já anunciado.
+					A Comissão Organizadora informa que as <b>INSCRIÇÕES ESTÃO ENCERRADAS</b>. Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ ESGOTADO. 
 				</p>
 			</div>
 

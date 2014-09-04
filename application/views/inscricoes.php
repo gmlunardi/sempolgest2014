@@ -20,13 +20,13 @@ A inscrição é gratuita em qualquer modalidade e, para efetivá-la, é preciso
 
 				<ol type="a">
 					<li>
-						Inscrição como <b><a href="https://docs.google.com/forms/d/1kTUXejBRfmgasEz-jTcbcfNr3GIzxnJASOqYUGA2SRc/viewform" target="_blank">OUVINTE</b></a>: os interessados em participar do evento apenas como ouvintes deverão preencher o formulário de inscrição e enviá-lo observando os prazos. 
+						<s>Inscrição como <b><a href="https://docs.google.com/forms/d/1kTUXejBRfmgasEz-jTcbcfNr3GIzxnJASOqYUGA2SRc/viewform" target="_blank">OUVINTE</b></a></s>: os interessados em participar do evento apenas como ouvintes deverão preencher o formulário de inscrição e enviá-lo observando os prazos. 
 					</li>
 					<li>
-						Inscrição com <b><a href="https://docs.google.com/forms/d/1TdJaBfDHNwlChWtZwuxvzmYvOd9buSHPxrF2T67Xvmc/viewform" target="_blank">SUBMISSÃO DE TRABALHO COMPLETO</a></b>: os interessados em submeter trabalhos completos deverão, primeiramente, preencher e enviar o formulário de inscrição correspondente e, após, enviar o trabalho pelo e-mail do eixo temático ao qual o trabalho se vincula, observando as normas e prazos estabelecidos.
+						<s>Inscrição com <b><a href="https://docs.google.com/forms/d/1TdJaBfDHNwlChWtZwuxvzmYvOd9buSHPxrF2T67Xvmc/viewform" target="_blank">SUBMISSÃO DE TRABALHO COMPLETO</a></b></s>: os interessados em submeter trabalhos completos deverão, primeiramente, preencher e enviar o formulário de inscrição correspondente e, após, enviar o trabalho pelo e-mail do eixo temático ao qual o trabalho se vincula, observando as normas e prazos estabelecidos.
 					</li>
 					<li>
-						Inscrição com <b><a href="https://docs.google.com/forms/d/1EZ7G2-IvuxwSIG3lGRK_lu6HqRhJn1wJMbE-VecYkRA/viewform" target="_blank">SUBMISSÃO DE OFICINA</a></b>: os interessados em desenvolver oficinas pedagógicas deverão preencher e enviar o formulário de inscrição correspondente, observando as normas e prazos estabelecidos. 
+						<s>Inscrição com <b><a href="https://docs.google.com/forms/d/1EZ7G2-IvuxwSIG3lGRK_lu6HqRhJn1wJMbE-VecYkRA/viewform" target="_blank">SUBMISSÃO DE OFICINA</a></b></s>: os interessados em desenvolver oficinas pedagógicas deverão preencher e enviar o formulário de inscrição correspondente, observando as normas e prazos estabelecidos. 
 					</li>
 				</ol>
 				<p>ATENÇÃO:</p>
@@ -57,12 +57,7 @@ Orientadores de trabalhos/oficinas são considerados uma categoria a parte, e po
 			<div class="alert alert-danger">
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
-					Aos interessados em participar do evento, a Comissão Organizadora orienta a realização da <b>INSCRIÇÃO COM URGÊNCIA</b>, 
-					uma vez que nas próximas horas <b>ESTARÁ FINALIZANDO</b> o processo de inscrições ao evento. </p>
-				<p class="text-center">
-					Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ SE ESGOTANDO. As submissões de trabalhos e oficinas aos participantes 
-					que estiverem inscritos no evento serão aceitas <u><b>até o dia 08/09/14</b></u> pelo e-mail do respectivo eixo temático, conforme 
-					já anunciado.
+					A Comissão Organizadora informa que as <b>INSCRIÇÕES ESTÃO ENCERRADAS</b>. Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ ESGOTADO. 
 				</p>
 			</div>
 
