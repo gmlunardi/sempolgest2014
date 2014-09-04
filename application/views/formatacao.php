@@ -104,8 +104,12 @@
 				para o desenvolvimento da oficina, estes devem ser indicados, com as devidas especificações e quantidades necessárias para cada 
 				oficina, ou seja, para a totalidade do grupo a ser atendido, levando em conta o número de vagas ofertadas pelo proponente.
 			</p>
+
+<br/><br/>
+		<h5><font color="red">Faça download do modelo de apresentação de slides clicando</font> <a href="<?php echo base_url('assets/arquivos/modelo.pptx') ?>">aqui</a></h5>
 		</article>
 			
+
 			<!-- /Sidebar -->
 
 		</div>

@@ -17,7 +17,8 @@
 			<article class="col-sm-12 maincontent">
 				<h4><b>Prazo para submissão de trabalhos e propostas de oficinas: </b></h4>
 				<ul>
-					<li>21 de julho a 31 de agosto de 2014</li>
+					<li><s>21 de julho a 31 de agosto de 2014</s></li>
+					<li><font color="red">prorrogado até o dia <u>08/09/14</u></font></li>
 				</ul>
 				
 				<h4><b>Prazo para avaliação dos trabalhos e propostas de oficinas:</b></h4>

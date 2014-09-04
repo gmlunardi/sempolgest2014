@@ -47,10 +47,24 @@ Orientadores de trabalhos/oficinas são considerados uma categoria a parte, e po
 					<li>
 						De 21 de julho a 31 de agosto de 2014: inscrições para os participantes que irão submeter trabalhos e/ou propor oficinas; 
 					</li>
+					<!-- 
 					<li>
 						De 21 de julho a 17 de outubro de 2014: inscrições para ouvintes no evento. 
 					</li>
+					-->
 				</ol>
+
+			<div class="alert alert-danger">
+				<div align="center"><h3>ATENÇÃO</h3></div>
+				<p class="text-center">
+					Aos interessados em participar do evento, a Comissão Organizadora orienta a realização da <b>INSCRIÇÃO COM URGÊNCIA</b>, 
+					uma vez que nas próximas horas <b>ESTARÁ FINALIZANDO</b> o processo de inscrições ao evento. </p>
+				<p class="text-center">
+					Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ SE ESGOTANDO. As submissões de trabalhos e oficinas aos participantes 
+					que estiverem inscritos no evento serão aceitas <u><b>até o dia 08/09/14</b></u> pelo e-mail do respectivo eixo temático, conforme 
+					já anunciado.
+				</p>
+			</div>
 
 				<br />
 				<br />
