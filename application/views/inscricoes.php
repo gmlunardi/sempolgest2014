@@ -58,6 +58,7 @@ Orientadores de trabalhos/oficinas são considerados uma categoria a parte, e po
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
 					A Comissão Organizadora informa que as <b>INSCRIÇÕES ESTÃO ENCERRADAS</b>. Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ ESGOTADO. 
+					Os participantes já inscritos no evento poderão submeter trabalhos até o dia 08/09 junto ao e-mail dos eixos temáticos.
 				</p>
 			</div>
 
