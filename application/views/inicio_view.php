@@ -134,31 +134,29 @@
 							<div class="h-body text-left">
 								<p><b>Eixo Temático 1</b></p>
 									<p>
-										Profª. Dda Andrelisa Goulart de Mello (UFSM) - Coord.<br/>
-										Profª. Laura Wunsh (UFRGS)<br/>
-										Profª. Monica DE Souza Trevisan (UNIPAMPA) <br/>
-										Profª. Eliziane Tainá Lunardi (UFSM)<br/>
-										Profª. Elisiane Lunardi (UNIFRA)<br/>
-										Prof. Gabriel dos Santos Kehler (UFPEL) <br/>
-										Profª. Prof. Fernanda Marquezan (UNIFRA)<br/>
-										Profª. Carla Cristina Dutra Burigo (UFSC)<br/>
-										Profª. Eliane Galvão (UNIFRA)<br/>
+										Profª. Andrelisa Goulart de Mello (UFSM) - Coordenadora<br />
+										Profª. Laura Wunsh (UFRGS)<br />
+										Profª. Monica de Souza Trevisan (UNIPAMPA) <br />
+										Profª. Eliziane Tainá Lunardi Ribeiro (UFSM)<br />
+										Profª. Elisiane Machado Lunardi (UNIFRA)<br />
+										Prof. Gabriel dos Santos Kehler (UFPEL) <br />
+										Profª. Fernanda Figueira Marquezan (UNIFRA)<br />
+										Profª. Carla Cristina Dutra Burigo (UFSC)<br />
+
 									</p>
 							</div>
 							
 							<div class="h-body text-left">
 								<p><b>Eixo Temático 2</b></p>
 									<p>
-										Profª. Dóris Pires Vargas Bolzan (UFSM) – Coordenadora <br/>
-										Profª. Ana Carla Powaczuk (UFSM) – Coordenadora<br/>
-										Profª Eliane dos Santos Galvão (UNIFRA)<br/>
-										Profª Rejane Cavalheiro (UFSM)<br/>
-										Profª Silvana Martins de Freitas Millani (UFSM) <br/>
-										Profª Gislaine da Silva Rossetto (UFSM) <br/>
-										Profª Adriana Martins Figuera (UFSM)<br/>
-										Profª Greice Scremim (UNIFRA)<br/>
-
-
+										Profª. Dóris Pires Vargas Bolzan (UFSM) – Coordenadora <br />
+										Profª. Ana Carla Powaczuk (UFSM) – Coordenadora<br />
+										Profª Eliane Aparecida Galvão dos Santos (UNIFRA)<br />
+										Profª Rejane Cavalheiro (UFSM)<br />
+										Profª Silvana Martins de Freitas Millani (UFSM) <br />
+										Profª Gislaine Aparecida Rodrigues da Silva Rossetto (UFSM) <br />
+										Profª Adriana Martins Figuera (UFSM)<br />
+										Profª Greice Scremim (UNIFRA)<br />
 									</p>
 							</div>
 
@@ -167,35 +165,37 @@
 				<div class="col-md-4 col-sm-4 highlight">
 					<div class="h-body text-left">
 							<div class="h-body text-right">
-																	Profª Leila Bataglin (UFRR)<br/>
-										Profª Giovana Fracari Hautrive (UFSM)<br/>
+										Profª Leila Adriana Bataglin (UFRR)<br />
+										Profª Giovana Fracari Hautrive (UFSM) <br />
 								<p><b>Eixo Temático 3</b></p>
 									<p>
-									Profª. Graziela Escandiel de Lima (UFSM) – Coord.<br/>
-									Profª Caroline da Silva dos Santos (UFSM)<br/>
-									Profª  Diolinda Franciele Winterhalter (UFSM)<br/>
-									Profª Taiana Flôres de Quadros (UFSM)<br/>
-									Profª Aruna Noal Correa (UFSM)<br/>
-									Profª Graziela Franceschet Faria (UFSM)<br/>
-									Profª Julia Bolssoni Dolwitsch (UFSM)<br/>
-									Profª Vanessa dos Santos Nogueira (UFSM) <br/>
-									Profª Taciana Camera Segat (UFSM)<br/>
-									Profª Rejane Cavalheiro (UFSM)<br/>
+										Profª. Graziela Escandiel de Lima (UFSM) – Coordenadora<br />
+										Profª Caroline da Silva dos Santos (UFSM)<br />
+										Profª  Diolinda Franciele Winterhalter (UFSM)<br />
+										Profª Taiana Flôres de Quadros (UFSM)<br />
+										Profª Aruna Noal Correa (UFSM)<br />
+										Profª Graziela Franceschet Faria (UFSM)<br />
+										Profª Julia Bolssoni Dolwitsch (UFSM)<br />
+										Profª Vanessa dos Santos Nogueira (UFSM) <br />
+										Profª Taciana Camera Segat (UFSM)<br />
+										Profª Rejane Cavalheiro (UFSM)<br />
+
 									</p>
 							</div>
 
 							<div class="h-body text-right">
 								<p><b>Eixo Temático 4</b></p>
 									<p>
-									Profª. Leandra Boer Possa (UFSM) – Coordenadora<br/>
-									Profª . Alana Claudia Mohr (UFSM)<br/>
-									Prof. Vantoir Roberto Brancher (IFF)<br/>
-									Profª. Eliana Pereira de Menezes (UFSM)<br/>
-									Prof. Valmôr Scott Junior (UFSM)<br/>
-									Profª . Vanise Lorensi (UFSM)<br/>
-									Profª . Fernanda Machado (IFF)<br/>
-									Profª . Eliane Sperandei Lavarda (UFSM)<br/>
-									Profª . Thais Marchi (UFSM)<br/>
+										Profª. Leandra Boer Possa (UFSM) – Coordenadora<br />
+										Profª . Alana Claudia Mohr (UFSM)<br />
+										Prof. Vantoir Roberto Brancher (IFF)<br />
+										Profª. Eliana Pereira de Menezes (UFSM)<br />
+										Prof. Valmôr Scott Junior (UFSM)<br />
+										Profª . Vanise Mello Lorensi (UFSM)<br />
+										Profª . Fernanda Machado (IFF)<br />
+										Profª . Eliane Sperandei Lavarda (UFSM)<br />
+										Profª . Thais Virgínea Borges Marchi (UFSM)<br />
+
 									</p>
 							</div>
 					</div>
