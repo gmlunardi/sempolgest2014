@@ -29,8 +29,8 @@
 					<td >14h – Abertura e Momento Cultural</td>
 				</tr>
 				<tr>
-					<td>14h30min – Conferência de Abertura: “QUALIDADE DA EDUCAÇÃO? INTERFACES E INTERLOCUÇÕES ENTRE POLÍTICAS 
-						PÚBLICAS E GESTÃO DA EDUCAÇÃO BÁSICA E SUPERIOR”. Conferencista: Profª Dra. Flávia Obino Corrêia Werle (UNISINOS)</td>
+					<td>14h30min –  Painel de Abertura: “QUALIDADE DA EDUCAÇÃO? INTERFACES E INTERLOCUÇÕES ENTRE POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO BÁSICA E 
+					SUPERIOR”. Painelistas: Profª Dra. Flávia Obino Corrêia Werle (UNISINOS); Profª. Ms. Liliana del Carmen Abrate (Universidad Nacional de Córdoba – Argentina).</td>
 				</tr>
 				<tr>
 					<td align="middle">Audimax, Auditório LINCE e salas prédio 16 e anexo - UFSM</td>
