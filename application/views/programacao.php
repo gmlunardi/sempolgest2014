@@ -9,7 +9,7 @@
 			<!-- Article main content -->
 			<article class="col-sm-12 maincontent">
 				<header class="page-header">
-					<h1 class="page-title"><?php echo $titulo ?> - Em construção</h1>
+					<h1 class="page-title"><?php echo $titulo ?></h1>
 				</header>
 				
 			</article>
@@ -30,10 +30,10 @@
 				</tr>
 				<tr>
 					<td>14h30min – Conferência de Abertura: “QUALIDADE DA EDUCAÇÃO? INTERFACES E INTERLOCUÇÕES ENTRE POLÍTICAS 
-						PÚBLICAS E GESTÃO DA EDUCAÇÃO BÁSICA E SUPERIOR”.</td>
+						PÚBLICAS E GESTÃO DA EDUCAÇÃO BÁSICA E SUPERIOR”. Conferencista: Profª Dra. Flávia Obino Corrêia Werle (UNISINOS)</td>
 				</tr>
 				<tr>
-					<td align="middle">Audimax, Auditório LINCE e salas prédio 16 e anexo</td>
+					<td align="middle">Audimax, Auditório LINCE e salas prédio 16 e anexo - UFSM</td>
 					<td>19h – Apresentação de comunicações e oficinas</td>
 				</tr>
 			</table>
@@ -46,26 +46,26 @@
 				</tr>
 
 				<tr>
-					<td align="middle"> Auditório Multiweb  </td>
-					<td> 08h30min – Painel 1: Qualidade e interlocuções com as políticas públicas e gestão da educação.</td>
+					<td align="middle"> Auditório Audimax, prédio 16 UFSM  </td>
+					<td> 08h30min – Painel 1: QUALIDADE DA EDUCAÇÃO, PRÁTICAS EDUCATIVAS E DIVERSIDADE EM DIÁLOGO. Palestrantes: Profª. Dra. Edla Eggert (UNISINOS); Prof. Dra. Marina Reidel (FUNDARTE) e Profª. Márcia Paixão (UFSM)</td>
 				</tr>
 				<tr>
-					<td align="middle">Audimax, prédio 16 </td>
-					<td>08h30min – Painel 2: Práticas educativas e as interfaces da qualidade. <br />
-						Painel: "Qualidade da educação e diversidade em diálogo", com as professoras Edla Eggert (UNISINOS) e Marina Reidel (FUNDARTE).
+					<td align="middle">Anfiteatro “C” da Química, prédio 18 UFSM </td>
+					<td>08h30min – Painel 2: PROGRAMAS DE FORMAÇÃO DE PROFESSORES: DESAFIOS E POSSIBILIDADES.  Palestrantes: Profª. Dra. Nara Vieira Ramos (Coordenadora Pacto Ensino Médio – UFSM); Profª. Dra. Helenise Sangoi Antunes e Profª. Dra. Liane Teresinha Wendling Roos (Coordenadoras Pacto Alfabetização – UFSM); Profª. Dra. Graziela Escandiel de Lima (Coordenadora Pibid Educação Infantil – UFSM); Profª. Dra. Rosane Carneiro Sarturi (Coordendora Pibid anos iniciais – UFSM); Profª. Dra. Viviane Cancian (Coordenadora do Proinfância – UFSM). <br />
+						
 					</td>
 
 </td>
 				</tr>
 				<tr>
-					<td align="middle">Auditório Multiweb</td>
-					<td>13h30min – Painel 3: Formação docente perspectiva da qualidade em Educação.
+					<td align="middle">Anfiteatro “C” da Química, prédio 18 UFSM</td>
+					<td>13h30min – Painel 3: EDUCAÇÃO, INCLUSÃO E QUALIDADE. Painelistas: Prof. Dr. Alfredo Veiga-Neto (UFRGS); Profª. Dra. Maura Corcini Lopes (UNISINOS); Profª. Dra. Marcia Lise Lunardi-Lazzarin (UFSM) 
 
 </td>
 				</tr>
 				<tr>
-					<td align="middle">Audimax prédio 16</td>
-					<td>13h30min – Painel 4: Educação, inclusão e qualidade.
+					<td align="middle">-----</td>
+					<td>18h30min –  Atividades da JAI com apresentação de trabalhos.
 </td>
 				</tr>
 			</table>
@@ -91,20 +91,26 @@
 				</tr>
 
 				<tr>
-					<td align="center"> Auditório C, prédio 18 - Química – UFSM </td>
-					<td> 8h30min – Mesa redonda 1 – FORMAÇÃO INICIAL E CONTINUADA DE PROFESSORES NA PERSPECTIVA DO PIBID, PROINFÂNCIA E PACTO DA ALFABETIZAÇÃO: DESAFIOS E POSSIBILIDADES
+					<td align="center"> Auditório Multiweb – UFSM </td>
+					<td> 8h30min – Painel 4: QUALIDADE E INTERLOCUÇÕES COM AS POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO. Painelistas: Profª. Dra. Maria de Fátima Cóssio (UFPel); Profª. Dra. Donatila Ferrada Torres (Universidade Católica de Santíssima Concepcion – Chile); Profª. Dra. Elisiane Machado Lunardi (UNIFRA)
  </td>
 				</tr>
 
 				<tr>
-					<td align="middle">Audimax, Auditório LINCE e salas prédio 16  </td>
-					<td>13h30min – Apresentação de comunicações e oficinas pedagógicas</td>
+					<td align="middle">Audimax, prédio 16 – UFSM   </td>
+					<td>8h30min – Painel 5: FORMAÇÃO DOCENTE NA PERSPECTIVA DA QUALIDADE EM EDUCAÇÃO. Painelistas: Profª. Dra. Carla Cristina Dutra Búrigo (UFSC); Profª. Dra. Carmen Lucia Bezerra Machado (UFRGS); Prof. Dr. Álvaro Hipólito (UFPel)</td>
 				</tr>
-<tr>
+
+				<tr>
+					<td align="middle">Auditório Multiweb – UFSM, Audimax, Auditório LINCE e salas prédio 16  </td>
+					<td>13h30min - Apresentação de comunicações e oficinas pedagógicas</td>
+				</tr>
+
+				<tr>
 					<td align="middle">Audimax, prédio 16 </td>
-					<td>19h – Conferência: A EPISTEMOLOGIA DAS PESQUISAS SOBRE POLÍTICAS PÚBLICAS.
-</td>
+					<td>19h – Conferência: EPISTEMOLOGIA DA POLÍTICA EDUCATIVA: PERSPECTIVAS E ENFOQUES. Conferencista: Prof. Dr. Cesar Tello (UNTREF, Buenos Aires – Argentina)</td>
 				</tr>
+
 			</table>
 		</div>
 			
@@ -115,15 +121,18 @@
 				</tr>
 
 				<tr>
-					<td align="middle"> Salas e Auditório LINCE prédio 16  </td>
+					<td align="middle"> Auditório Multiweb – UFSM, Audimax, Salas e Auditório LINCE prédio 16 </td>
 					<td>8h30min – Apresentação de comunicações e oficinas pedagógicas</td>
 				</tr>
 				<tr>
-					<td align="middle">Audimax, prédio 16 </td>
-					<td>13h30min – Conferência de Encerramento: A EDUCAÇÃO PARA O MERCADO X A EDUCAÇÃO PARA O MUNDO DO TRABALHO: UM OLHAR NAS POLÍTICAS PÚBLICAS</td>
+					<td align="middle">Anfiteatro “C” da Química, prédio 18 – UFSM </td>
+					<td>13h30min – Conferência de Encerramento: A EDUCAÇÃO PARA O MERCADO X A EDUCAÇÃO PARA O MUNDO DO TRABALHO. Conferencista: Profª. Dra. Maria de Lourdes Pinto de Almeida – UNIPLAC </td>
 				</tr>
 			</table>
 		</div>
+
+	<div style="color:red; text-align:center; font-weight:bold">**As Conferências e Painéis serão transmitidos ao vivo no site da Multiweb/UFSM.
+</div>
 </article>
 		</div>
 	</div>	<!-- /container -->
