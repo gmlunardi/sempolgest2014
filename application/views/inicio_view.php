@@ -18,6 +18,14 @@
 <!-- Highlights - jumbotron -->
 	<div class="jumbotron">
 		<div class="container">
+
+		<div class="alert alert-success">
+				<div align="center"><h3>OFICINAS SELECIONADAS</h3></div>
+				<p class="text-center">
+				Informamos que a listagem de oficinas selecionadas está disponível através do link abaixo.<br/><br/>
+					<a href="<?php echo base_url('assets/arquivos/Oficinas-SACE-2014.pdf') ?>" class="btn btn-success" role="button">listagem de oficinas</a>
+				</p>
+			</div>
 			<div class="alert alert-danger">
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
