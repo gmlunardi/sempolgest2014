@@ -3,12 +3,15 @@
 	$ativo = 'active';
 	$ativoTrab = '';
 	$ativoServ = '';
+	$ativoTrabAprov = '';
 	if ($pagina == 'modalidades' || $pagina == 'eixos' || $pagina == 'formatacao' || $pagina ==  'envio' || $pagina == 'oficinas')
 		$ativoTrab = 'active';
 	else if ($pagina == 'transporte' || $pagina == 'hospedagem' || $pagina == 'localizacao')
 			$ativoServ = 'active';
-	
+	else if ($pagina == 'trabAprovEixo1' || $pagina == 'trabAprovEixo2' || $pagina == 'trabAprovEixo3' || $pagina == 'trabAprovEixo4')
+			$ativoTrabAprov = 'active';
 ?>
+
 <!-- Fixed navbar -->
 	<div class="navbar navbar-inverse" >
 		<div class="container">
@@ -24,6 +27,18 @@
 					<li class="<?php if ($pagina == 'programacao') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/programacao');?>">Programação</a></li>
 					<li class="<?php if ($pagina == 'inscricoes') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/inscricoes');?>">Inscrições</a></li>
 					<li class="<?php if ($pagina == 'prazos') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/prazos');?>">Prazos</a></li>
+					<li class="dropdown <?php echo $ativoTrabAprov ?>"><a href="" class="dropdown-toggle" data-toggle="dropdown">Trabalhos Aprovados<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li class="<?php if ($pagina == 'trabAprovEixo1') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo1');?>">Eixo 1</a></li>
+							<li class="<?php if ($pagina == 'trabAprovEixo2') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo2');?>">Eixo 2</a></li>
+							<li class="<?php if ($pagina == 'trabAprovEixo3') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo3');?>">Eixo 3</a></li>
+							<li class="<?php if ($pagina == 'trabAprovEixo4') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo4');?>">Eixo 4</a></li>
+						</ul>
+					</li>
+					<li class="<?php if ($pagina == 'oficinasaprovadas') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/oficinasaprovadas');?>">Oficinas Aprovadas</a></li>
+
+					
+
 					<li class="dropdown <?php echo $ativoTrab ?>"><a href="" class="dropdown-toggle" data-toggle="dropdown">Trabalhos / Oficinas<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li class="<?php if ($pagina == 'modalidades') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/modalidades');?>">Modalidades</a></li>

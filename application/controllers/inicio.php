@@ -106,4 +106,43 @@ class Inicio extends CI_Controller {
 		$this->load->view('template',$dados);
 	}
 
+	public function oficinasaprovadas(){
+		$dados = array(
+			'titulo' => 'Oficinas Aprovadas',
+			'pagina' => 'oficinasaprovadas'
+		);
+		$this->load->view('template',$dados);
+	}
+
+	public function trabalhosAprovadosEixo1(){
+		$dados = array(
+			'titulo' => 'Trabalhos Aprovados no Eixo 1',
+			'pagina' => 'trabAprovEixo1'
+		);
+		$this->load->view('template',$dados);
+	}
+
+	public function trabalhosAprovadosEixo2(){
+		$dados = array(
+			'titulo' => 'Trabalhos Aprovados no Eixo 2',
+			'pagina' => 'trabAprovEixo2'
+		);
+		$this->load->view('template',$dados);
+	}
+
+	public function trabalhosAprovadosEixo3(){
+		$dados = array(
+			'titulo' => 'Trabalhos Aprovados no Eixo 3',
+			'pagina' => 'trabAprovEixo3'
+		);
+		$this->load->view('template',$dados);
+	}
+
+	public function trabalhosAprovadosEixo4(){
+		$dados = array(
+			'titulo' => 'Trabalhos Aprovados no Eixo 4',
+			'pagina' => 'trabAprovEixo4'
+		);
+		$this->load->view('template',$dados);
+	}
 }

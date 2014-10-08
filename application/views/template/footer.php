@@ -16,24 +16,26 @@
 						</div>
 					</div>
 
-					<div class="col-md-4 widget">
-						<h3 class="widget-title">Apoio</h3>
-						<div class="widget-body">
-								<img src="<?php echo base_url('assets/images/mec.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
-								<img src="<?php echo base_url('assets/images/uab.png') ?>"/>
-								<img src="<?php echo base_url('assets/images/prpgp.png') ?>"/>
-								<img src="<?php echo base_url('assets/images/ppge.png') ?>"/>
-						</div>
-					</div>
-
 					<div class="col-md-5 widget">
 						<h3 class="widget-title">Realização</h3>
 						<div class="widget-body">
+							<img src="<?php echo base_url('assets/images/UFSM.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
 							<img src="<?php echo base_url('assets/images/ce.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
 							<img src="<?php echo base_url('assets/images/cege.png') ?>"/>&nbsp;&nbsp;
 							<img src="<?php echo base_url('assets/images/LogoElos.png') ?>"/>
 							<img src="<?php echo base_url('assets/images/Obeduc.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
 							<img src="<?php echo base_url('assets/images/logoOficial.png') ?>"/>
+						</div>
+					</div>
+
+					<div class="col-md-4 widget">
+						<h3 class="widget-title">Apoio</h3>
+						<div class="widget-body">
+								<img src="<?php echo base_url('assets/images/capes.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
+								<img src="<?php echo base_url('assets/images/proc.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
+								<img src="<?php echo base_url('assets/images/uab.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
+								<img src="<?php echo base_url('assets/images/prpgp.png') ?>"/>&nbsp;&nbsp;&nbsp;&nbsp;
+								<img src="<?php echo base_url('assets/images/ppge.png') ?>"/>
 						</div>
 					</div>
 

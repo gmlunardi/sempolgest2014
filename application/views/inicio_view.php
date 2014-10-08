@@ -18,19 +18,20 @@
 <!-- Highlights - jumbotron -->
 	<div class="jumbotron">
 		<div class="container">
-
+<!--
 		<div class="alert alert-success">
 				<div align="center"><h3>OFICINAS SELECIONADAS</h3></div>
 				<p class="text-center">
 				Informamos que a listagem de oficinas selecionadas está disponível através do link abaixo.<br/><br/>
 					<a href="<?php echo base_url('assets/arquivos/Oficinas-SACE-2014.pdf') ?>" class="btn btn-success" role="button">listagem de oficinas</a>
 				</p>
-			</div>
+		</div>
+-->
 			<div class="alert alert-danger">
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
-					A Comissão Organizadora informa que as <b>INSCRIÇÕES ESTÃO ENCERRADAS</b>. Justifica-se que O NÚMERO DE VAGAS (400) ESTÁ ESGOTADO. 
-					Os participantes já inscritos no evento poderão submeter trabalhos até o dia 08/09 junto ao e-mail dos eixos temáticos.
+						No dia 10/10 será publicada a listagem de datas e horários de apresentação dos trabalhos
+	
 				</p>
 			</div>
 
