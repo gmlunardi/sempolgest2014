@@ -30,11 +30,12 @@
 				</tr>
 				<tr>
 					<td>14h30min –  Painel de Abertura: “QUALIDADE DA EDUCAÇÃO? INTERFACES E INTERLOCUÇÕES ENTRE POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO BÁSICA E 
-					SUPERIOR”. Painelistas: Profª Dra. Flávia Obino Corrêia Werle (UNISINOS).</td>
+					SUPERIOR”. Conferencista: Prof. Dr. Álvaro Hipólito (UFPel). Coordenadora: Profª. Dra. Liliana Soares Ferreira (UFSM).
+					</td>
 				</tr>
 				<tr>
 					<td align="middle">Audimax, Auditório LINCE e salas prédio 16 e anexo - UFSM</td>
-					<td>19h – Apresentação de comunicações e oficinas</td>
+					<td>Apresentação de comunicações e oficinas pedagógicas.</td>
 				</tr>
 			</table>
 		</div>
@@ -47,26 +48,34 @@
 
 				<tr>
 					<td align="middle"> Auditório Audimax, prédio 16 UFSM  </td>
-					<td> 08h30min – Painel 1: QUALIDADE DA EDUCAÇÃO, PRÁTICAS EDUCATIVAS E DIVERSIDADE EM DIÁLOGO. Palestrantes: Profª. Dra. Edla Eggert (UNISINOS); Prof. Dra. Marina Reidel (FUNDARTE) e Profª. Márcia Paixão (UFSM)</td>
+					<td>9h – Painel 1: QUALIDADE DA EDUCAÇÃO, PRÁTICAS EDUCATIVAS E DIVERSIDADE EM DIÁLOGO. 
+						Palestrantes: Profª. Dra. Edla Eggert (UNISINOS); Prof. Dra. Marina Reidel (FUNDARTE) e Profª. Dra. Márcia Eliane Leindcker da Paixão (UFSM). 
+						Coordenadora: Profª.  Dra. Márcia Eliane Leindcker da Paixão (UFSM).
+					</td>
 				</tr>
 				<tr>
 					<td align="middle">Anfiteatro “C” da Química, prédio 18 UFSM </td>
-					<td>08h30min – Painel 2: PROGRAMAS DE FORMAÇÃO DE PROFESSORES: DESAFIOS E POSSIBILIDADES.  Palestrantes: Profª. Dra. Nara Vieira Ramos (Coordenadora Pacto Ensino Médio – UFSM); Profª. Dra. Helenise Sangoi Antunes e Profª. Dra. Liane Teresinha Wendling Roos (Coordenadoras Pacto Alfabetização – UFSM); Profª. Dra. Graziela Escandiel de Lima (Coordenadora Pibid Educação Infantil – UFSM); Profª. Dra. Rosane Carneiro Sarturi (Coordendora Pibid anos iniciais – UFSM); Profª. Dra. Viviane Cancian (Coordenadora do Proinfância – UFSM). <br />
-						
+					<td>
+						9h – Painel 2: PROGRAMAS DE FORMAÇÃO DE PROFESSORES: DESAFIOS E POSSIBILIDADES. 
+						Palestrantes: Profª. Dra. Nara Vieira Ramos (Coordenadora Pacto Ensino Médio – UFSM); Profª. Dra. Helenise Sangoi Antunes e Profª. Dra. Liane Teresinha Wendling Roos (Coordenadoras Pacto Alfabetização – UFSM); Profª. Dra. Graziela Escandiel de Lima (Coordenadora Pibid Educação Infantil – UFSM); Profª. Dra. Rosane Carneiro Sarturi (Coordendora Pibid anos iniciais – UFSM); Profª. Dra. Viviane Cancian (Coordenadora do Proinfância – UFSM). 
+						Coordenadora: Profª. Dra. Débora Teixeira de Mello (UFSM)
 					</td>
 
-</td>
 				</tr>
 				<tr>
 					<td align="middle">Anfiteatro “C” da Química, prédio 18 UFSM</td>
-					<td>13h30min – Painel 3: EDUCAÇÃO, INCLUSÃO E QUALIDADE. Painelistas: Prof. Dr. Alfredo Veiga-Neto (UFRGS); Profª. Dra. Maura Corcini Lopes (UNISINOS); Profª. Dra. Marcia Lise Lunardi-Lazzarin (UFSM) 
-
-</td>
+					<td> 
+						14h – Painel 3: EDUCAÇÃO, INCLUSÃO E QUALIDADE. 
+						Palestrantes: Prof. Dr. Alfredo Veiga-Neto (UFRGS); Profª. Dra. Maura Corcini Lopes (UNISINOS); Profª. Dra. Marcia Lise Lunardi-Lazzarin (UFSM).
+						Coordenadora: Profª. Dra. Leandra Boer Possa (UFSM)
+					</td>
 				</tr>
+
 				<tr>
-					<td align="middle">-----</td>
-					<td>18h30min –  Atividades da JAI com apresentação de trabalhos.
-</td>
+					<td align="middle">Ver programação JAI disponível em: <a href="http://w3.ufsm.br/jai/" target="_blank">http://w3.ufsm.br/jai/</a></td>
+					<td>
+						18h30min – Atividades da Jornada Acadêmica Integrada – JAI/UFSM, com apresentação de trabalhos do CE.
+					</td>
 				</tr>
 			</table>
 		</div>
@@ -76,10 +85,11 @@
 				<tr>
 					<td align="middle" colspan="2" class="active"><b>22/10/2014 - Quarta-Feira</b></td>
 				</tr>
-
 				<tr>
-					<td align="middle"> ---------- </td>
-					<td> Manhã / Tarde / Noite - Atividades da Jornada Acadêmica Integrada – JAI/UFSM com apresentação de trabalhos </td>
+					<td align="middle">Ver programação JAI disponível <br/> em: <a href="http://w3.ufsm.br/jai/" target="_blank">http://w3.ufsm.br/jai/</a></td>
+					<td>
+						Manhã / Tarde / Noite - Atividades da Jornada Acadêmica Integrada – JAI/UFSM, com apresentação de trabalhos do CE.
+					</td>
 				</tr>
 			</table>
 		</div>
@@ -92,23 +102,35 @@
 
 				<tr>
 					<td align="center"> Auditório Multiweb – UFSM </td>
-					<td> 8h30min – Painel 4: QUALIDADE E INTERLOCUÇÕES COM AS POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO. Painelistas: Profª. Dra. Maria de Fátima Cóssio (UFPel); Profª. Dra. Donatila Ferrada Torres (Universidade Católica de Santíssima Concepcion – Chile); Profª. Dra. Elisiane Machado Lunardi (UNIFRA)
- </td>
+					<td>  
+					9h – Painel 4: QUALIDADE E INTERLOCUÇÕES COM AS POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO. 
+					Palestrantes: Profª. Dra. Maria de Fátima Cóssio (UFPel); Profª. Dra. Donatila Ferrada Torres (Universidade Católica de Santíssima Concepcion – Chile); Profª. Dra. Elisiane Machado Lunardi (UNIFRA).
+					Coordenadora: Profª. Dra. Marilene Gabriel Dalla Corte (UFSM)
+ 					</td>
 				</tr>
 
 				<tr>
 					<td align="middle">Audimax, prédio 16 – UFSM   </td>
-					<td>8h30min – Painel 5: FORMAÇÃO DOCENTE NA PERSPECTIVA DA QUALIDADE EM EDUCAÇÃO. Painelistas: Profª. Dra. Carla Cristina Dutra Búrigo (UFSC); Profª. Dra. Carmen Lucia Bezerra Machado (UFRGS); Prof. Dr. Álvaro Hipólito (UFPel)</td>
+					<td>
+						9h – Painel 5: FORMAÇÃO DOCENTE NA PERSPECTIVA DA QUALIDADE EM EDUCAÇÃO. 
+						Palestrantes: Profª. Dra. Carla Cristina Dutra Búrigo (UFSC); Profª. Dra. Carmen Lucia Bezerra Machado (UFRGS); Profª. Dra. Eliane Aparecida Galvão dos Santos (UNIFRA).
+						Coordenadora: Profª. Dra. Dóris Pires Vargas Bolzan (UFSM)
+
+					</td>
 				</tr>
 
 				<tr>
 					<td align="middle">Auditório Multiweb – UFSM, Audimax, Auditório LINCE e salas prédio 16  </td>
-					<td>13h30min - Apresentação de comunicações e oficinas pedagógicas</td>
+					<td>14h – Apresentação de comunicações e oficinas pedagógicas.</td>
 				</tr>
 
 				<tr>
 					<td align="middle">Audimax, prédio 16 </td>
-					<td>19h – Conferência: EPISTEMOLOGIA DA POLÍTICA EDUCATIVA: PERSPECTIVAS E ENFOQUES. Conferencista: Prof. Dr. Cesar Tello (UNTREF, Buenos Aires – Argentina)</td>
+					<td>
+						19h – Conferência: EPISTEMOLOGIA DA POLÍTICA EDUCATIVA: PERSPECTIVAS E ENFOQUES. 
+						Conferencista: Prof. Dr. Cesar Tello (UNTREF, Buenos Aires – Argentina).
+						Coordenadora: Profª. Dra. Rosane Carneiro Sarturi (UFSM).
+					</td>
 				</tr>
 
 			</table>
@@ -122,11 +144,14 @@
 
 				<tr>
 					<td align="middle"> Auditório Multiweb – UFSM, Audimax, Salas e Auditório LINCE prédio 16 </td>
-					<td>8h30min – Apresentação de comunicações e oficinas pedagógicas</td>
+					<td>9h – Apresentação de comunicações e oficinas pedagógicas</td>
 				</tr>
 				<tr>
 					<td align="middle">Anfiteatro “C” da Química, prédio 18 – UFSM </td>
-					<td>13h30min – Conferência de Encerramento: A EDUCAÇÃO PARA O MERCADO X A EDUCAÇÃO PARA O MUNDO DO TRABALHO. Conferencista: Profª. Dra. Maria de Lourdes Pinto de Almeida – UNIPLAC </td>
+					<td>14h – Conferência de Encerramento: A EDUCAÇÃO PARA O MERCADO X A EDUCAÇÃO PARA O MUNDO DO TRABALHO. 
+						Conferencista: Profª. Dra. Maria de Lourdes Pinto de Almeida (UNOESC).
+						Coordenadora: Profª. Dra. Graziela Escandiel de Lima (UFSM).
+					</td>
 				</tr>
 			</table>
 		</div>

@@ -145,4 +145,13 @@ class Inicio extends CI_Controller {
 		);
 		$this->load->view('template',$dados);
 	}
+
+	public function datasEhorarios(){
+		$dados = array(
+			'titulo' => 'Salas de Apresentação Comunicações Orais',
+			'pagina' => 'datas-horarios-apresentacao'
+		);
+		$this->load->view('template',$dados);
+	}
+
 }

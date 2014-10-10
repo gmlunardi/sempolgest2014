@@ -8,7 +8,7 @@
 		$ativoTrab = 'active';
 	else if ($pagina == 'transporte' || $pagina == 'hospedagem' || $pagina == 'localizacao')
 			$ativoServ = 'active';
-	else if ($pagina == 'trabAprovEixo1' || $pagina == 'trabAprovEixo2' || $pagina == 'trabAprovEixo3' || $pagina == 'trabAprovEixo4')
+	else if ($pagina == 'trabAprovEixo1' || $pagina == 'trabAprovEixo2' || $pagina == 'trabAprovEixo3' || $pagina == 'trabAprovEixo4' || $pagina == 'datas-horarios-apresentacao')
 			$ativoTrabAprov = 'active';
 ?>
 
@@ -33,6 +33,7 @@
 							<li class="<?php if ($pagina == 'trabAprovEixo2') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo2');?>">Eixo 2</a></li>
 							<li class="<?php if ($pagina == 'trabAprovEixo3') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo3');?>">Eixo 3</a></li>
 							<li class="<?php if ($pagina == 'trabAprovEixo4') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/trabalhosAprovadosEixo4');?>">Eixo 4</a></li>
+							<li class="<?php if ($pagina == 'datas-horarios-apresentacao') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/datasEhorarios');?>">Datas / horários / Locais</a></li>
 						</ul>
 					</li>
 					<li class="<?php if ($pagina == 'oficinasaprovadas') echo $ativo ?>"><a href="<?php echo base_url('index.php/inicio/oficinasaprovadas');?>">Oficinas Aprovadas</a></li>

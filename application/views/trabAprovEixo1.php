@@ -181,6 +181,10 @@
 				<tr>
 					<td><b>A categoria capital social: Referência à gestão democrática da universidade </b></td>
 					<td>Valéria Fontoura Nunes (apresentador) </td>
+				</tr>	
+				<tr>
+					<td><b>POLÍTICAS PÚBLICAS DE ALFABETIZAÇÃO - PACTO NACIONAL DE ALFABETIZAÇÃO NA IDADE CERTA (PNAIC)- DA TEORIA À PRÁTICA</b></td>
+					<td>Carine Ferreira Machado Virago (apresentadora, Ivanez de Deus)</td>
 				</tr>							
 
 
