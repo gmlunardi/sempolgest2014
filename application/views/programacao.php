@@ -50,7 +50,7 @@
 					<td align="middle"> Auditório Audimax, prédio 16 UFSM  </td>
 					<td>9h – Painel 1: QUALIDADE DA EDUCAÇÃO, PRÁTICAS EDUCATIVAS E DIVERSIDADE EM DIÁLOGO. 
 						Palestrantes: Profª. Dra. Edla Eggert (UNISINOS); Prof. Dra. Marina Reidel (FUNDARTE) e Profª. Dra. Márcia Eliane Leindcker da Paixão (UFSM). 
-						Coordenadora: Profª.  Dra. Márcia Eliane Leindcker da Paixão (UFSM).
+						Coordenadora: Profª Dra. Ana Carla Powaczuk (UFSM).
 					</td>
 				</tr>
 				<tr>
@@ -125,7 +125,16 @@
 				</tr>
 
 				<tr>
-					<td align="middle">Audimax, prédio 16 </td>
+					<td align="middle"></td>
+					<td>
+						17h30min – LANÇAMENTO DE LIVROS <br/>
+    					Profª. Dra. Maria de Lourdes Pinto de Almeida – UNIPLAC<br/>
+    					Pró-Conselho/UFSM
+					</td>
+				</tr>
+
+				<tr>
+					<td align="middle">Anfiteatro C da Química </td>
 					<td>
 						19h – Conferência: EPISTEMOLOGIA DA POLÍTICA EDUCATIVA: PERSPECTIVAS E ENFOQUES. 
 						Conferencista: Prof. Dr. Cesar Tello (UNTREF, Buenos Aires – Argentina).

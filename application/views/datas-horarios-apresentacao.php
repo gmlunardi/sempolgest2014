@@ -222,7 +222,7 @@
 				</div>
 
 
-			<div align="center"><h4><b>SEXTA-FEIRA (24/10/14)- 08h e 30min</b></h4></div>
+			<div align="center"><h4><b>SEXTA-FEIRA (24/10/14) - 9h</b></h4></div>
 
 			<p><b>LOCAL: Audimax-CE, prédio 16</b></p>
 

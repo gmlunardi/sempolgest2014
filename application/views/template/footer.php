@@ -8,7 +8,7 @@
 						<h3 class="widget-title">Contato</h3>
 						<h6 id="contato"></h6>
 						<div class="widget-body">
-							<p>(55) 3220-8401, (55) 3220-9693 <br /> ou (55) 3220-8010 <br />
+							<p>(55) 3220-8450, (55) 3220-9693 <br /> ou (55) 3220-8010 <br />
 								email: seminarioufsm@gmail.com<br/>
 								<br/>
 								Avenida Roraima, nº 1000 Cidade Universitária

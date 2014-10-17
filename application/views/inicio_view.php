@@ -30,8 +30,8 @@
 			<div class="alert alert-danger">
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
-						No dia 10/10 será publicada a listagem de datas e horários de apresentação dos trabalhos
-	
+						Os inscritos com submissão de trabalho e/ou oficina estão automaticamente inscritos como ouvintes.
+						<br/>Está disponível a listagem de oficinas com seus respectivos locais de apresentação.
 				</p>
 			</div>
 
