@@ -13,28 +13,37 @@
 			</div>
 		</div>
 	</header>
+
+<!--<div id="myModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Atenção você que não se credenciou no evento!</h4>
+            </div>
+            <div class="modal-body">
+                <p>Avisamos que o mesmo deve ser realizado dia 21/10 (terça-feira) no auditório Audimax, no Centro de Educação - Prédio 16</p>
+                <p class="text-warning"><small>Horário: 08h e 30 min até às 11h e 30 min</small></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>-->
+
 	<!-- /Header -->
 	
 <!-- Highlights - jumbotron -->
 	<div class="jumbotron">
 		<div class="container">
-<!--
-		<div class="alert alert-success">
-				<div align="center"><h3>OFICINAS SELECIONADAS</h3></div>
-				<p class="text-center">
-				Informamos que a listagem de oficinas selecionadas está disponível através do link abaixo.<br/><br/>
-					<a href="<?php echo base_url('assets/arquivos/Oficinas-SACE-2014.pdf') ?>" class="btn btn-success" role="button">listagem de oficinas</a>
-				</p>
-		</div>
--->
 			<div class="alert alert-danger">
 				<div align="center"><h3>ATENÇÃO</h3></div>
 				<p class="text-center">
 						Os inscritos com submissão de trabalho e/ou oficina estão automaticamente inscritos como ouvintes.
-						<br/>Está disponível a listagem de oficinas com seus respectivos locais de apresentação.
+						<br/>Os certificados podem ser retirados a partir do dia 15/11/2014 no menu "<a href="http://coral.ufsm.br/seminariopoliticasegestao/certificados" target="_blank">certificados</a>" informando CPF como login e senha.
 				</p>
 			</div>
-
 
 			<h3 class="text-center thin">Apresentação</h3>
 			
@@ -80,9 +89,8 @@
   		
   		<h3 class="text-center thin">Certificação</h3>
 		<p align="justify">	
-				Os certificados serão emitidos com carga horária de 40 horas e serão enviados por e-mail, a partir do dia 24/10/2014, ao participante ouvinte, ou ao autor que submeteu trabalho, ou ao proponente que submeteu proposta de oficina.
-		Para cada trabalho ou oficina, será entregue um único certificado com os nomes de todos os respectivos autores e coautores, ou proponentes e demais responsáveis.
-		A emissão de certificados de participação como ouvinte no evento é condicionada ao credenciamento, que poderá ser realizado nos dias 20 e 21 de outubro. 
+				Os certificados poderão ser retirados a partir do dia 15/11/2014, ao participante ouvinte, ou ao autor que submeteu trabalho, ou ao proponente que submeteu proposta de oficina.
+			A emissão de certificados de participação como ouvinte no evento é condicionada ao credenciamento, que poderá ser realizado nos dias 20 e 21 de outubro. 
 
 		</p>
 		

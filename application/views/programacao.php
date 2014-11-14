@@ -2,7 +2,23 @@
 <!-- container -->
 	<div class="container">
 
-
+<div id="myModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Atenção!</h4>
+            </div>
+            <div class="modal-body">
+                <p>Todas as palestras previstas no Auditório C da Química (prédio 18) foram transferidas para o auditório Audimax, no Centro de Educação - Prédio 16</p>
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 		<div class="row">
 			
@@ -101,7 +117,7 @@
 				</tr>
 
 				<tr>
-					<td align="center"> Auditório Multiweb – UFSM </td>
+					<td align="center" rowspan="2"> Audimax, prédio 16 – UFSM </td>
 					<td>  
 					9h – Painel 4: QUALIDADE E INTERLOCUÇÕES COM AS POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO. 
 					Palestrantes: Profª. Dra. Maria de Fátima Cóssio (UFPel); Profª. Dra. Donatila Ferrada Torres (Universidade Católica de Santíssima Concepcion – Chile); Profª. Dra. Elisiane Machado Lunardi (UNIFRA).
@@ -110,7 +126,7 @@
 				</tr>
 
 				<tr>
-					<td align="middle">Audimax, prédio 16 – UFSM   </td>
+				
 					<td>
 						9h – Painel 5: FORMAÇÃO DOCENTE NA PERSPECTIVA DA QUALIDADE EM EDUCAÇÃO. 
 						Palestrantes: Profª. Dra. Carla Cristina Dutra Búrigo (UFSC); Profª. Dra. Carmen Lucia Bezerra Machado (UFRGS); Profª. Dra. Eliane Aparecida Galvão dos Santos (UNIFRA).
@@ -120,7 +136,7 @@
 				</tr>
 
 				<tr>
-					<td align="middle">Auditório Multiweb – UFSM, Audimax, Auditório LINCE e salas prédio 16  </td>
+					<td align="middle">Audimax, Auditório LINCE e salas prédio 16  </td>
 					<td>14h – Apresentação de comunicações e oficinas pedagógicas.</td>
 				</tr>
 
@@ -128,13 +144,13 @@
 					<td align="middle"></td>
 					<td>
 						17h30min – LANÇAMENTO DE LIVROS <br/>
-    					Profª. Dra. Maria de Lourdes Pinto de Almeida – UNIPLAC<br/>
+    					Profª. Dra. Maria de Lourdes Pinto de Almeida – UNOESC / UNICAMP<br/>
     					Pró-Conselho/UFSM
 					</td>
 				</tr>
 
 				<tr>
-					<td align="middle">Anfiteatro C da Química </td>
+					<td align="middle">Audimax, prédio 16 – UFSM </td>
 					<td>
 						19h – Conferência: EPISTEMOLOGIA DA POLÍTICA EDUCATIVA: PERSPECTIVAS E ENFOQUES. 
 						Conferencista: Prof. Dr. Cesar Tello (UNTREF, Buenos Aires – Argentina).
@@ -152,11 +168,11 @@
 				</tr>
 
 				<tr>
-					<td align="middle"> Auditório Multiweb – UFSM, Audimax, Salas e Auditório LINCE prédio 16 </td>
+					<td align="middle"> Audimax, Salas e Auditório LINCE prédio 16 </td>
 					<td>9h – Apresentação de comunicações e oficinas pedagógicas</td>
 				</tr>
 				<tr>
-					<td align="middle">Anfiteatro “C” da Química, prédio 18 – UFSM </td>
+					<td align="middle">Audimax, prédio 16 – UFSM </td>
 					<td>14h – Conferência de Encerramento: A EDUCAÇÃO PARA O MERCADO X A EDUCAÇÃO PARA O MUNDO DO TRABALHO. 
 						Conferencista: Profª. Dra. Maria de Lourdes Pinto de Almeida (UNOESC).
 						Coordenadora: Profª. Dra. Graziela Escandiel de Lima (UFSM).

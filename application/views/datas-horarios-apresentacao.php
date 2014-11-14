@@ -54,7 +54,15 @@
 						<tr>
 							<td>Gestão educacional e o IDEB da rede municipal de ensino de Santa Maria-RS</td>
 							<td>Andressa Aita Ivo</td>
-						</tr>						
+						</tr>	
+						<tr>
+							<td>A gestão do/no PROEJA: Experiências e desafios de uma realidade</td>
+							<td>Mariglei Severo Maraschin</td>
+						</tr>	
+						<tr>
+							<td>Políticas públicas e os programas de correção de fluxo no RS: Efeitos da racionalidade neoliberal na gestão escolar</td>
+							<td>Alana Cláudia Mohr</td>
+						</tr>		
 					</table>
 				</div>
 
@@ -92,7 +100,11 @@
 						<tr>
 							<td>Integração das tecnologias educacionais em rede na formação inicial e ou continuada de professores</td>
 							<td>Iris Cristina Datsch Toebe</td>
-						</tr>									
+						</tr>	
+						<tr>
+							<td>Desafios e as possibilidades dos professores iniciantes na educação profissional e tecnológica</td>
+							<td>Eloisa Maria Wiebusch </td>
+						</tr>								
 					</table>
 				</div>
 
@@ -134,13 +146,13 @@
 							<td>Joana Elisa Röwer</td>
 						</tr>
 						<tr>
-							<td>Políticas públicas e os programas de correção de fluxo no RS: Efeitos da racionalidade neoliberal na gestão escolar</td>
-							<td>Alana Cláudia Mohr</td>
-						</tr>
-						<tr>
 							<td>Políticas Públicas de alfabetização - Pacto Nacional de Alfabetização na Idade Certa (PNAIC)- da teoria à prática</td>
 							<td>Carine Ferreira Machado Virago</td>
-						</tr>									
+						</tr>
+						<tr>
+							<td>Políticas públicas para a Educação Infantil: direito versus obrigatoriedade</td>
+							<td>Jucemara Antunes</td>
+						</tr>								
 					</table>
 				</div>
 
@@ -150,10 +162,6 @@
 					<table class="table table-bordered">
 						<tr>
 							<th align="middle" colspan="2">Eixo 2: Formação inicial e/ou continuada na perspectiva da qualidade em educação</th>
-						</tr>
-						<tr>
-							<td>Desafios e as possibilidades dos professores iniciantes na educação profissional e tecnológica</td>
-							<td>Eloisa Maria Wiebusch </td>
 						</tr>
 						<tr>
 							<td>Contexto histórico e reflexões a respeito da formação continuada de professores</td>
@@ -222,7 +230,7 @@
 				</div>
 
 
-			<div align="center"><h4><b>SEXTA-FEIRA (24/10/14) - 9h</b></h4></div>
+			<div align="center"><h4><b>SEXTA-FEIRA (24/10/14) - 8h e 30min</b></h4></div>
 
 			<p><b>LOCAL: Audimax-CE, prédio 16</b></p>
 
@@ -252,10 +260,6 @@
 							<td>Luciana Guilhermano da Silva</td>
 						</tr>
 						<tr>
-							<td>A gestão do/no PROEJA: Experiências e desafios de uma realidade</td>
-							<td>Mariglei Severo Maraschin</td>
-						</tr>
-						<tr>
 							<td>O programa bolsa família: Análise de uma realidade escolar</td>
 							<td>Gislaine Rodrigues Couto</td>
 						</tr>
@@ -266,7 +270,15 @@
 						<tr>
 							<td>Trabalho docente entre lugares de ‘fuga(s)’ da escola: Endereçamentos de perfis docentes a partir do PIBID</td>
 							<td>Gabriel dos Santos Kehler</td>
-						</tr>			
+						</tr>	
+						<tr>
+							<td>O princípio da gestão democrática e a organização do trabalho docente: dissoluções entre propostas de caráter democrático e/ou neoliberal</td>
+							<td>Leticia Ramalho Brittes</td>
+						</tr>	
+						<tr>
+							<td>O perfil dos conselheiros municipais de educação do Pró-conselho/UFSM: uma análise comparativa da 1ª e 2ª edições</td>
+							<td>Marina Lara Silva dos Santos Teixeira</td>
+						</tr>							
 					</table>
 			</div>
 

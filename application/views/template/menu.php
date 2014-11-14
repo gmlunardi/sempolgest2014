@@ -62,6 +62,7 @@
 							<li class=""><a href="http://espgestao.wordpress.com" target="_blank">Edição 2012</a></li>
 						</ul>
 					</li> 
+					<li><a href="http://coral.ufsm.br/seminariopoliticasegestao/certificados/" target="_blank">Certificados</a></li>
 					<li><a href="#contato">Contato</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
